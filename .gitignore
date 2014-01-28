@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/*
 .settings/*
 .classpath
@@ -5,3 +6,11 @@ target/*
 .idea
 *.iml
 /target
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> face20eb5ec914635963f7c0ef53e45b67b6671f
